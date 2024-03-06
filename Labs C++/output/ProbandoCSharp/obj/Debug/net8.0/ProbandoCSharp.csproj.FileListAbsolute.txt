@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive - Departamento de Educación\Documents\com2315\Labs C++\output\ProbandoCSharp\bin\Debug\net8.0\ProbandoCSharp.exe
+C:\Users\USER\OneDrive - Departamento de Educación\Documents\com2315\Labs C++\output\ProbandoCSharp\bin\Debug\net8.0\ProbandoCSharp.deps.json
+C:\Users\USER\OneDrive - Departamento de Educación\Documents\com2315\Labs C++\output\ProbandoCSharp\bin\Debug\net8.0\ProbandoCSharp.runtimeconfig.json
+C:\Users\USER\OneDrive - Departamento de Educación\Documents\com2315\Labs C++\output\ProbandoCSharp\bin\Debug\net8.0\ProbandoCSharp.dll
+C:\Users\USER\OneDrive - Departamento de Educación\Documents\com2315\Labs C++\output\ProbandoCSharp\bin\Debug\net8.0\ProbandoCSharp.pdb
+C:\Users\USER\OneDrive - Departamento de Educación\Documents\com2315\Labs C++\output\ProbandoCSharp\obj\Debug\net8.0\ProbandoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive - Departamento de Educación\Documents\com2315\Labs C++\output\ProbandoCSharp\obj\Debug\net8.0\ProbandoCSharp.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive - Departamento de Educación\Documents\com2315\Labs C++\output\ProbandoCSharp\obj\Debug\net8.0\ProbandoCSharp.AssemblyInfo.cs
+C:\Users\USER\OneDrive - Departamento de Educación\Documents\com2315\Labs C++\output\ProbandoCSharp\obj\Debug\net8.0\ProbandoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - Departamento de Educación\Documents\com2315\Labs C++\output\ProbandoCSharp\obj\Debug\net8.0\ProbandoCSharp.sourcelink.json
+C:\Users\USER\OneDrive - Departamento de Educación\Documents\com2315\Labs C++\output\ProbandoCSharp\obj\Debug\net8.0\ProbandoCSharp.dll
+C:\Users\USER\OneDrive - Departamento de Educación\Documents\com2315\Labs C++\output\ProbandoCSharp\obj\Debug\net8.0\refint\ProbandoCSharp.dll
+C:\Users\USER\OneDrive - Departamento de Educación\Documents\com2315\Labs C++\output\ProbandoCSharp\obj\Debug\net8.0\ProbandoCSharp.pdb
+C:\Users\USER\OneDrive - Departamento de Educación\Documents\com2315\Labs C++\output\ProbandoCSharp\obj\Debug\net8.0\ProbandoCSharp.genruntimeconfig.cache
+C:\Users\USER\OneDrive - Departamento de Educación\Documents\com2315\Labs C++\output\ProbandoCSharp\obj\Debug\net8.0\ref\ProbandoCSharp.dll
