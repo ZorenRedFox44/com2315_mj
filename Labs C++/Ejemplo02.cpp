@@ -28,6 +28,7 @@ int main()
     cout <<"El numero flotante entrado es: "<<flotante<<endl;
     cout <<"El caracter entrado es: "<<caracter<<endl;
     cout <<"La cadena de caracteres entrada es: "<<cadena<<endl;
+    
     return 0;
 
 }
