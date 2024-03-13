@@ -1,14 +1,23 @@
-using System;
+uimport java.util.Scanner;
 
-class Program{
-    static void Main(){
-        Console.Write("Ingrese un numero entro: ");
-        int entero = int.Parse(Console.ReadLine());
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
 
-        Console.Write("Ingrese un numero flotante: ");
-        float flotante = float.Parse(Console.ReadLine());
+        System.out.print("Ingrese un numero entero: ");
+        int entero = scanner.nextInt();
 
-        Console.Write("Ingrese una cadena de caracteres: ");
-        string cadena = Console.ReadLine();
+        System.out.print("Ingrese un numero flotante: ");
+        float flotante = scanner.nextFloat();
+
+        System.out.print("Ingrese un caracter: ");
+        char caracter = scanner.next().charAt(0);
+
+        scanner.nextLine(); // Consumir la nueva línea pendiente después de leer un char
+
+        System.out.print("Ingrese una cadena de caracteres: ");
+        String cadena = scanner.nextLine();
+        
+        // Ahora puedes usar las variables entero, flotante, caracter y cadena según sea necesario
     }
 }
