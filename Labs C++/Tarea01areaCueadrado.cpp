@@ -12,6 +12,5 @@ int main()
 
     cout <<"El area del cuadrado es: " << area <<endl;
 
-
     return 0;
 }

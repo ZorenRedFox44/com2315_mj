@@ -13,5 +13,5 @@ int main() {
 
     edad = anioActual - anioNacimiento;
 
-    cout << "La edad aproximado es de: " <<edad <<"años."<<endl;
+    cout << "La edad aproximado es de: " << edad << "años."<<endl;
 }
