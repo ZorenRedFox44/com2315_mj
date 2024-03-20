@@ -6,11 +6,12 @@ int main()
     double lado, area;
 
     cout <<"Ingrese la longitud del lado del cuadrado: ";
-    cin >> area;
+    cin >> lado;
 
     area = lado * lado;
 
-    cout <<"El area del cuadrado es: "<<area <<endl;
+    cout <<"El area del cuadrado es: " << area <<endl;
+
 
     return 0;
 }
